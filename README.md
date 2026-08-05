@@ -327,27 +327,41 @@ security, or realtime voice** — I'd genuinely like to hear from you.
   Full walkthrough in PROFILE-GUIDE.md § Setup.
 -->
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=prathamesh-halale&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=60A5FA&amp;border_color=30363D&amp;border_radius=14&amp;cache_seconds=86400" />
+    <img src="https://github-stats-extended.vercel.app/api?username=prathamesh-halale&amp;show_icons=true&amp;include_all_commits=true&amp;hide_title=true&amp;rank_icon=github&amp;bg_color=FFFFFF&amp;title_color=6D28D9&amp;text_color=475569&amp;icon_color=2563EB&amp;border_color=E2E8F0&amp;border_radius=14&amp;cache_seconds=86400" alt="Prathamesh's public GitHub statistics" />
+  </picture>
+</p>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=prathamesh-halale&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00F7FF"
-  alt="Prathamesh Halale's GitHub stats"
-/>
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-halale&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3"
-  alt="Most used languages"
-/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prathamesh-halale&amp;hide_border=true&amp;background=0D1117&amp;border_radius=14&amp;ring=A78BFA&amp;fire=38BDF8&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" />
+    <img src="https://streak-stats.demolab.com?user=prathamesh-halale&amp;hide_border=true&amp;background=FFFFFF&amp;border_radius=14&amp;ring=7C3AED&amp;fire=0284C7&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;currStreakLabel=475569&amp;sideLabels=475569&amp;dates=64748B&amp;stroke=E2E8F0" alt="Prathamesh's GitHub contribution streak" />
+  </picture>
+</p>
 
-<br /><br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-halale&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=A78BFA&amp;point=38BDF8&amp;area=true&amp;area_color=312E81&amp;hide_border=true&amp;custom_title=Public%20Contribution%20Activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-halale&amp;bg_color=FFFFFF&amp;color=475569&amp;line=7C3AED&amp;point=0284C7&amp;area=true&amp;area_color=EDE9FE&amp;hide_border=true&amp;custom_title=Public%20Contribution%20Activity" alt="Prathamesh's public GitHub contribution activity graph" />
+  </picture>
+</p>
 
-<img
-  src="https://streak-stats.demolab.com?user=prathamesh-halale&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681"
-  alt="GitHub streak"
-/>
+> 🐍 A scheduled [contribution-snake workflow](./.github/workflows/generate-snake.yml) is included with this profile. It publishes a GitHub-hosted animation after its first successful run; the visual is intentionally not embedded until that asset exists, so a new profile never ships with a broken image.
 
-</div>
+<!--
+  After the first successful generate-snake workflow run, uncomment this block:
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathamesh-halale/prathamesh-halale/output/github-contribution-grid-snake-dark.svg" />
+      <img src="https://raw.githubusercontent.com/prathamesh-halale/prathamesh-halale/output/github-contribution-grid-snake.svg" alt="Animated snake moving across Prathamesh's GitHub contribution graph" />
+    </picture>
+  </p>
+-->
+
+<sub>Live cards report public GitHub data. The native contribution calendar on the profile remains the source of truth.</sub>
 
 <!-- ═══════════════════════════  CODING ACTIVITY  ═══════════════════════════ -->
 
