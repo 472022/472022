@@ -1,6 +1,6 @@
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
-  PRATHAMESH HALALE — GitHub Profile README
+  PRATHAMESH HALALE — GitHub Profile README   ·   account: @472022
   ─────────────────────────────────────────────────────────────────────────────
   Palette   BG #0D1117 · ACCENT #00F7FF · ACCENT-2 #7C3AED · TEXT #E6EDF3
   Layout    Centered <div> and <table> only. GitHub strips CSS, so every bit of
@@ -8,7 +8,7 @@
   Rhythm    No `---` rules. GitHub already renders an <h2> underline; adding
             horizontal rules on top of that flattens the hierarchy.
 
-  ⚠ TWO SWAP POINTS before this renders fully — see PROFILE-GUIDE.md § Setup.
+  ⚠ ONE SWAP POINT before this renders fully — see PROFILE-GUIDE.md § Setup.
     Search this file for  [SWAP-1]  (stats)  and  [SWAP-2]  (trophies).
 ═══════════════════════════════════════════════════════════════════════════════
 -->
@@ -25,7 +25,7 @@
 
 <!-- ────────────────────────────  TYPING ANIMATION  ─────────────────────────── -->
 
-<a href="https://github.com/prathamesh-halale">
+<a href="https://github.com/472022">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&height=60&lines=Building+scalable+SaaS+%26+AI+systems;Kotlin+Android%2C+shipped+to+production;LLM+orchestration+at+multi-tenant+scale;Computer+vision+with+YOLOv8+%2B+PyTorch;Problem+Solver+%7C+Open+Source+Enthusiast"
     alt="Building scalable SaaS and AI systems"
@@ -36,14 +36,17 @@
 
 <!-- ───────────────────────────────  META BADGES  ──────────────────────────── -->
 
-<a href="https://github.com/prathamesh-halale">
-  <img src="https://komarev.com/ghpvc/?username=prathamesh-halale&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/472022">
+  <img src="https://komarev.com/ghpvc/?username=472022&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
-<a href="https://github.com/prathamesh-halale?tab=followers">
-  <img src="https://img.shields.io/github/followers/prathamesh-halale?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=00F7FF&label=FOLLOWERS" alt="GitHub followers" />
+<a href="https://github.com/472022?tab=followers">
+  <img src="https://img.shields.io/github/followers/472022?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=00F7FF&label=FOLLOWERS" alt="GitHub followers" />
+</a>
+<a href="https://github.com/472022?tab=repositories">
+  <img src="https://img.shields.io/badge/PUBLIC_REPOS-77-00F7FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00F7FF" alt="Public repositories" />
 </a>
 <a href="mailto:prathameshhalale@gmail.com">
-  <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Open to opportunities" />
 </a>
 
 </div>
@@ -145,7 +148,7 @@ observability, Kubernetes
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,php&theme=dark" alt="Django, FastAPI, Node.js, Express, PHP" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,php&theme=dark" alt="Django, FastAPI, Flask, Node.js, Express, PHP" />
 
 **AI · ML · LLM**
 
@@ -183,9 +186,9 @@ observability, Kubernetes
 | **Android** | Kotlin · Retrofit · OkHttp · Glide · Material 3 · Navigation Component · ViewModel / LiveData · AndroidX Biometric · Security-Crypto · Shimmer · ViewPager2 · Espresso / JUnit |
 | **AI & Computer Vision** | PyTorch · torchvision · Ultralytics YOLOv8 · OpenCV · MediaPipe · face_recognition · scikit-learn · NumPy · Pillow · joblib |
 | **LLM & Agents** | Anthropic · OpenAI-compatible APIs · NVIDIA NIM · Groq · LiveKit Agents · Pipecat · Deepgram · Cartesia · Silero · Tavily · mem0 · LangChain |
-| **Backend** | Django 5 · Django REST Framework · django-ninja · FastAPI · Django Channels / Daphne · Celery · SimpleJWT · Node.js · Express · PHP |
-| **Data** | PostgreSQL 15 · MySQL · Redis 7 · SQLite |
-| **Infra & Observability** | Docker · Docker Compose · Nginx · Prometheus · Flower · GitHub Actions |
+| **Backend** | Django 5 · Django REST Framework · django-ninja · FastAPI · Flask · Django Channels / Daphne · Celery · SimpleJWT · Node.js · Express · PHP |
+| **Data** | PostgreSQL 15 · MySQL · Redis 7 · SQLite · pandas · openpyxl |
+| **Infra & Observability** | Docker · Docker Compose · Nginx · Prometheus · Flower · GitHub Actions · Render |
 | **Frontend** | React · Vite · TypeScript · Tailwind CSS v4 · JavaScript · HTML5 · CSS3 · Bootstrap |
 | **Automation & QA** | Playwright · Espresso · Postman |
 
@@ -215,6 +218,62 @@ re-ranks providers from real traffic and promotes better "challenger" models via
 </td>
 <td width="50%" valign="top">
 
+### 🚁 &nbsp;DroneEye — Inspection Dashboard
+
+A real-time operator dashboard for **drone-based transmission line inspection**. Streams live
+telemetry from ESP32 hardware, with a built-in simulator so the whole stack can be exercised
+without a drone attached. Deployable to Render with automatic port configuration.
+
+`Python` `Flask` `ESP32` `Realtime telemetry`
+
+<img src="https://img.shields.io/badge/status-active-00F7FF?style=flat-square&labelColor=0D1117" alt="Active" />
+
+<a href="https://github.com/472022/DroneEye">
+  <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=00F7FF" alt="View DroneEye repo" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ &nbsp;Dora — Realtime Voice Agent
+
+A Jarvis-style conversational assistant with **web search, vision through the camera, weather,
+and email**, driven by a low-latency voice pipeline over **LiveKit**. Built on Pipecat with local
+smart-turn detection, Deepgram/Cartesia speech and persistent recall through `mem0`.
+
+`Python 3.12` `LiveKit` `Pipecat` `Groq`
+`Deepgram` `Cartesia` `Tavily` `mem0`
+
+<img src="https://img.shields.io/badge/status-deployed-00F7FF?style=flat-square&labelColor=0D1117" alt="Deployed" />
+
+<a href="https://github.com/472022/doraDeployed">
+  <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=00F7FF" alt="View Dora repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 &nbsp;Process Plant AI
+
+A marketing site plus an embedded **Lab Digitiser** product surface, backed by a small
+Node/Express contact service with SMTP delivery. Hand-rolled HTML/CSS/JS — no bundler — with
+compiled Tailwind v4 output and iframe-based product routing.
+
+`TypeScript` `Express` `Nodemailer` `Tailwind v4`
+
+<img src="https://img.shields.io/badge/status-deployed-00F7FF?style=flat-square&labelColor=0D1117" alt="Deployed" />
+
+<a href="https://github.com/472022/ProcessPlantAi">
+  <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=00F7FF" alt="View Process Plant AI repo" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📈 &nbsp;Tradora — Android Trading Client
 
 A native Kotlin trading app targeting **Android 16 (SDK 36)**. Built on a ViewModel/LiveData
@@ -228,8 +287,6 @@ encrypted storage for credentials. Shimmer skeletons and swipe-to-refresh throug
 <img src="https://img.shields.io/badge/repo-publishing_soon-6E7681?style=flat-square&labelColor=0D1117" alt="Publishing soon" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👁️ &nbsp;AI Surveillance System
@@ -245,55 +302,16 @@ React front end and its own model documentation.
 <img src="https://img.shields.io/badge/repo-private-6E7681?style=flat-square&labelColor=0D1117" alt="Private repo" />
 
 </td>
-<td width="50%" valign="top">
-
-### 🎙️ &nbsp;Dora — Realtime Voice Agent
-
-A low-latency conversational agent built on **Pipecat** and **LiveKit Agents**, with local
-smart-turn detection, Deepgram/Cartesia speech, Groq inference, Tavily web search and persistent
-recall through `mem0`.
-
-`Python 3.12` `Pipecat` `LiveKit` `Groq`
-`Deepgram` `Cartesia` `Tavily` `mem0`
-
-<img src="https://img.shields.io/badge/status-experimental-7C3AED?style=flat-square&labelColor=0D1117" alt="Experimental" />
-<img src="https://img.shields.io/badge/repo-private-6E7681?style=flat-square&labelColor=0D1117" alt="Private repo" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 &nbsp;Process Plant AI
-
-A marketing site plus an embedded **Lab Digitiser** product surface, backed by a small
-Node/Express contact service with SMTP delivery. Hand-rolled HTML/CSS/JS — no bundler — with
-compiled Tailwind v4 output and iframe-based product routing.
-
-`TypeScript` `Express` `Nodemailer` `Tailwind v4`
-
-<img src="https://img.shields.io/badge/status-deployed-00F7FF?style=flat-square&labelColor=0D1117" alt="Deployed" />
-<img src="https://img.shields.io/badge/repo-private-6E7681?style=flat-square&labelColor=0D1117" alt="Private repo" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 &nbsp;NextIn
-
-A hub for software development, game innovation and digital design — my longest-running public
-project and the home of the NextIn Academy site.
-
-`HTML` `CSS` `JavaScript`
-
-<img src="https://img.shields.io/badge/status-live-00F7FF?style=flat-square&labelColor=0D1117" alt="Live" />
-
-<a href="https://github.com/prathamesh-halale/NextIn.github.io">
-  <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=00F7FF" alt="View repo" />
-</a>
-
-</td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/472022?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse_all_77_repositories-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Browse all repositories" />
+</a>
+
+</div>
 
 <!-- ═══════════════════════════  OPEN SOURCE  ═══════════════════════════════ -->
 
@@ -307,7 +325,7 @@ security, or realtime voice** — I'd genuinely like to hear from you.
 
 <br />
 
-<a href="https://github.com/prathamesh-halale?tab=repositories">
+<a href="https://github.com/472022?tab=repositories">
   <img src="https://img.shields.io/badge/Open_to-COLLABORATION-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 </a>
 <a href="mailto:prathameshhalale@gmail.com">
@@ -331,41 +349,38 @@ security, or realtime voice** — I'd genuinely like to hear from you.
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=prathamesh-halale&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00F7FF"
+  src="https://github-readme-stats.vercel.app/api?username=472022&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=E6EDF3&ring_color=00F7FF"
   alt="Prathamesh Halale's GitHub stats"
 />
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-halale&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=472022&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=E6EDF3"
   alt="Most used languages"
 />
 
 <br /><br />
 
 <img
-  src="https://streak-stats.demolab.com?user=prathamesh-halale&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681"
+  src="https://streak-stats.demolab.com?user=472022&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681"
   alt="GitHub streak"
 />
 
 </div>
 
-<!-- ═══════════════════════════  CODING ACTIVITY  ═══════════════════════════ -->
+<!-- ═══════════════════════  CONTRIBUTION CALENDAR  ═════════════════════════ -->
 
-## 📈 &nbsp;Coding Activity
+<!--
+  NOTE: github-readme-activity-graph was removed on purpose. It returns HTTP 200 but
+  renders "Can't fetch any contribution" inside the SVG — verified broken for every
+  username tested, including torvalds and gaearon, so it is a service-side outage,
+  not a username problem. ghchart below is content-verified against real data.
+-->
+
+## 📅 &nbsp;Contribution Calendar
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-halale&bg_color=0D1117&color=E6EDF3&line=00F7FF&point=7C3AED&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days"
-  alt="Contribution activity graph"
-  width="100%"
-/>
-
-<br /><br />
-
-**📅 &nbsp;Contribution Calendar**
-
-<img src="https://ghchart.rshah.org/00F7FF/prathamesh-halale" alt="Contribution calendar" width="100%" />
+<img src="https://ghchart.rshah.org/00F7FF/472022" alt="Contribution calendar" width="100%" />
 
 </div>
 
@@ -381,9 +396,9 @@ security, or realtime voice** — I'd genuinely like to hear from you.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/prathamesh-halale/prathamesh-halale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathamesh-halale/prathamesh-halale/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/prathamesh-halale/prathamesh-halale/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/472022/472022/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/472022/472022/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/472022/472022/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -401,7 +416,7 @@ security, or realtime voice** — I'd genuinely like to hear from you.
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=prathamesh-halale&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+  src="https://github-profile-trophy.vercel.app/?username=472022&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
   alt="GitHub trophies"
   width="100%"
 />
@@ -424,7 +439,7 @@ and AI systems end to end.
 
 **Web Application Developer**
 Production PHP/MySQL business systems — catering,
-billing, inventory and ERP tooling.
+billing, inventory, CRM and ERP tooling.
 
 <sub>📄 Detailed CV available on request.</sub>
 
@@ -455,7 +470,7 @@ copy-paste templates.</sub>
 <a href="mailto:prathameshhalale@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/prathamesh-halale">
+<a href="https://github.com/472022">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
 </a>
 
@@ -463,9 +478,10 @@ copy-paste templates.</sub>
   ┌──────────────────────────────────────────────────────────────────────────┐
   │  READY TO ENABLE — replace the URL, then delete the two comment markers. │
   │  Kept commented out so your live profile ships ZERO dead links.          │
+  │  NOTE: simple-icons dropped the `linkedin` logo, so that badge is a      │
+  │  text badge in LinkedIn blue rather than a logo badge.                   │
   └──────────────────────────────────────────────────────────────────────────┘
 
-<!-- simple-icons dropped the `linkedin` logo, so this is a text badge in LinkedIn blue. -->
 <a href="https://linkedin.com/in/YOUR-HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="LinkedIn" />
 </a>
