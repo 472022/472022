@@ -1,4 +1,3 @@
-
 <!--
 ═══════════════════════════════════════════════════════════════════════════════
   PRATHAMESH HALALE — GitHub Profile README   ·   account: @472022
@@ -19,10 +18,15 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,45:BB9AF7,100:FF9E64&height=210&section=header&text=Prathamesh%20Halale&fontColor=C0CAF5&fontSize=54&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%20%C2%B7%20Cloud&descSize=17&descAlignY=56&animation=fadeIn"
-  alt="Prathamesh Halale — Software Engineer, Full Stack, Mobile, AI, Cloud"
+  src="https://media1.tenor.com/m/-W03P8wXXgMAAAAd/anime-scenery.gif"
+  alt="Anime Scenery Header Banner"
   width="100%"
 />
+
+<br />
+
+<h1 align="center">✧ &nbsp; Prathamesh Halale &nbsp; ✧</h1>
+<h3 align="center"><i>Software Engineer · Full Stack · Mobile · AI · Cloud</i></h3>
 
 <!-- ────────────────────────────  TYPING ANIMATION  ─────────────────────────── -->
 
