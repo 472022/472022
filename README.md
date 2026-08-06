@@ -40,26 +40,19 @@
 <br />
 
 
-<!-- ─────────────────────────────── LO-FI GIF ────────────────────────────── -->
-<br />
-<div align="center">
-  <img src="https://i.pinimg.com/originals/a4/f3/f1/a4f3f15053cf200e6203cf3d75bf6936.gif" alt="lo-fi coding anime gif" width="600" />
-</div>
-<br />
-
 <!-- ───────────────────────────────  META BADGES  ──────────────────────────── -->
 
 <a href="https://github.com/472022">
-  <img src="https://komarev.com/ghpvc/?username=472022&color=FF9E64&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=472022&color=FF9E64&style=flat-square&label=PROFILE+VIEWS&label_color=1A1B26" alt="Profile views" />
 </a>
 <a href="https://github.com/472022?tab=followers">
-  <img src="https://img.shields.io/github/followers/472022?style=for-the-badge&color=BB9AF7&labelColor=1A1B26&logo=github&logoColor=FF9E64&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/472022?style=flat-square&color=BB9AF7&labelColor=1A1B26&logo=github&logoColor=BB9AF7&label=FOLLOWERS" alt="GitHub followers" />
 </a>
 <a href="https://github.com/472022?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC_REPOS-77-FF9E64?style=for-the-badge&labelColor=1A1B26&logo=github&logoColor=FF9E64" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/PUBLIC_REPOS-77-FF9E64?style=flat-square&labelColor=1A1B26&logo=github&logoColor=FF9E64" alt="Public repositories" />
 </a>
 <a href="mailto:prathameshhalale@gmail.com">
-  <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-BB9AF7?style=for-the-badge&labelColor=1A1B26" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-BB9AF7?style=flat-square&labelColor=1A1B26" alt="Open to opportunities" />
 </a>
 
 </div>
@@ -70,37 +63,31 @@
 
 ## 🌸 &nbsp;私について | About Me
 
-> I'm a software engineer who ships across the whole stack — from **Kotlin Android apps** with
-> biometric auth and encrypted storage, to **multi-tenant AI platforms** that route traffic across
-> half a dozen LLM providers, to **computer-vision backends** running YOLOv8 over live video.
->
-> Most of what I build is full-stack by necessity: a Django or FastAPI service, a React front end,
-> a Postgres/Redis layer, all wired together with Docker — and increasingly, a model somewhere in
-> the middle. I care about systems that stay up, degrade gracefully, and are honest about their
-> own confidence.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
+
+> I'm a software engineer who ships across the whole stack — from **Kotlin Android apps** with biometric auth and encrypted storage, to **multi-tenant AI platforms** that route traffic across half a dozen LLM providers, to **computer-vision backends** running YOLOv8 over live video.<br><br>Most of what I build is full-stack by necessity: a Django or FastAPI service, a React front end, a Postgres/Redis layer, all wired together with Docker. I care about systems that stay up, degrade gracefully, and are honest about their own confidence.
+
+<br/>
 
 **🧭 &nbsp;What I do**
-
 - 🏗️ Design and ship **full-stack products** end to end
 - 📱 Build **native Android** apps in Kotlin
 - 🤖 Engineer **LLM routing, evaluation & agent** systems
 - 👁️ Train and deploy **computer-vision** pipelines
-- ☁️ Run it all **containerised and observable**
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
+
+<img src="https://i.pinimg.com/originals/a4/f3/f1/a4f3f15053cf200e6203cf3d75bf6936.gif" alt="lo-fi coding anime gif" width="100%" />
+
+<br/>
 
 **⚙️ &nbsp;How I work**
-
-- 🧩 Break ambiguous problems into shippable slices
-- 📊 Measure before optimising — metrics over vibes
-- 🔐 Treat security and privacy as build-time concerns
-- ♻️ Prefer boring, maintainable tech where it counts
-- 🌍 Learn in public, contribute back where I can
+- 🧩 Break problems into shippable slices
+- 📊 Metrics over vibes
+- ♻️ Prefer boring, maintainable tech
 
 </td>
 </tr>
@@ -147,7 +134,7 @@ observability, Kubernetes
 
 <!-- ═══════════════════════════════  TECH STACK  ════════════════════════════ -->
 
-## 🧰 &nbsp;Tech Stack
+## ⚔️ &nbsp;技術スタック | Tech Stack
 
 <div align="center">
 
@@ -225,7 +212,7 @@ re-ranks providers from real traffic and promotes better "challenger" models via
 `Django + django-ninja` `FastAPI` `React + Vite + TS`
 `Celery` `Redis` `PostgreSQL` `Docker` `Prometheus`
 
-<img src="https://img.shields.io/badge/status-in_development-BB9AF7?style=flat-square&labelColor=1A1B26" alt="In development" />
+<img src="https://img.shields.io/badge/STATUS-IN_DEV-BB9AF7?style=flat-square&labelColor=1A1B26" alt="In development" />
 <img src="https://img.shields.io/badge/repo-private-6E7681?style=flat-square&labelColor=1A1B26" alt="Private repo" />
 
 </td>
@@ -239,7 +226,7 @@ without a drone attached. Deployable to Render with automatic port configuration
 
 `Python` `Flask` `ESP32` `Realtime telemetry`
 
-<img src="https://img.shields.io/badge/status-active-FF9E64?style=flat-square&labelColor=1A1B26" alt="Active" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF9E64?style=flat-square&labelColor=1A1B26" alt="Active" />
 
 <a href="https://github.com/472022/DroneEye">
   <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=FF9E64" alt="View DroneEye repo" />
@@ -259,7 +246,7 @@ smart-turn detection, Deepgram/Cartesia speech and persistent recall through `me
 `Python 3.12` `LiveKit` `Pipecat` `Groq`
 `Deepgram` `Cartesia` `Tavily` `mem0`
 
-<img src="https://img.shields.io/badge/status-deployed-FF9E64?style=flat-square&labelColor=1A1B26" alt="Deployed" />
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF9E64?style=flat-square&labelColor=1A1B26" alt="Deployed" />
 
 <a href="https://github.com/472022/doraDeployed">
   <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=FF9E64" alt="View Dora repo" />
@@ -276,7 +263,7 @@ compiled Tailwind v4 output and iframe-based product routing.
 
 `TypeScript` `Express` `Nodemailer` `Tailwind v4`
 
-<img src="https://img.shields.io/badge/status-deployed-FF9E64?style=flat-square&labelColor=1A1B26" alt="Deployed" />
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-FF9E64?style=flat-square&labelColor=1A1B26" alt="Deployed" />
 
 <a href="https://github.com/472022/ProcessPlantAi">
   <img src="https://img.shields.io/badge/GitHub-View_Repo-161B22?style=flat-square&logo=github&logoColor=FF9E64" alt="View Process Plant AI repo" />
@@ -296,7 +283,7 @@ encrypted storage for credentials. Shimmer skeletons and swipe-to-refresh throug
 `Kotlin` `Retrofit` `OkHttp` `Material 3`
 `Biometric` `Security-Crypto` `Navigation` `Glide`
 
-<img src="https://img.shields.io/badge/status-active-FF9E64?style=flat-square&labelColor=1A1B26" alt="Active" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF9E64?style=flat-square&labelColor=1A1B26" alt="Active" />
 <img src="https://img.shields.io/badge/repo-publishing_soon-6E7681?style=flat-square&labelColor=1A1B26" alt="Publishing soon" />
 
 </td>
